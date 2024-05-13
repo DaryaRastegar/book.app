@@ -1,0 +1,22 @@
+.header{
+display:flex;
+justify-content: space-between;
+align-items: center;
+border-radius: 10px;
+background-color: #303030;
+padding: 10px 20px;
+margin-bottom: 80px;
+}
+.header a{
+    text-decoration: none;
+    color: #6552F4;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.footer{
+    text-align: center;
+    background-color: #303030;
+    padding: 20px ;
+    margin-top: 80px;
+    border-radius: 10px;
+}
